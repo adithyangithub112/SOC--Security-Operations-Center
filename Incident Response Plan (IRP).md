@@ -10,8 +10,6 @@ It provides a **structured and coordinated approach** to handling security event
 
 In a SOC environment, the IRP acts as the **strategic framework**, while analysts execute incidents based on this framework.
 
----
-
 # 2. Purpose of an Incident Response Plan
 
 The primary purpose of an IRP is to ensure that:
@@ -24,15 +22,11 @@ The primary purpose of an IRP is to ensure that:
 
 Without an IRP, incident handling becomes chaotic, inconsistent, and risky.
 
----
-
 # 3. Incident Response Lifecycle
 
 Most organizations follow the widely accepted lifecycle defined by **National Institute of Standards and Technology (NIST)**.
 
 The standard phases include:
-
----
 
 ## Preparation
 
@@ -50,8 +44,6 @@ Purpose:
 
 To ensure the organization is ready to respond effectively.
 
----
-
 ## Detection and Analysis
 
 This phase begins when a security event is identified.
@@ -67,8 +59,6 @@ Activities:
 SOC Role:
 
 L1 and L2 analysts primarily work in this phase.
-
----
 
 ## Containment
 
@@ -88,8 +78,6 @@ Containment can be:
 - Short-term (temporary isolation)
 - Long-term (permanent fix)
 
----
-
 ## Eradication
 
 Goal:
@@ -102,8 +90,6 @@ Actions:
 - Patch vulnerabilities
 - Close exploited ports
 - Remove unauthorized access
-
----
 
 ## Recovery
 
@@ -126,8 +112,6 @@ Activities:
 
 IRP provides a **clear roadmap**, preventing confusion during high-pressure situations.
 
----
-
 ## 2. Faster Decision-Making
 
 Because roles and actions are predefined:
@@ -135,8 +119,6 @@ Because roles and actions are predefined:
 - Analysts know exactly what to do
 - Escalation paths are clear
 - Communication is streamlined
-
----
 
 ## 3. Reduced Business Impact
 
@@ -146,8 +128,6 @@ Quick containment reduces:
 - Downtime
 - Financial damage
 - Reputation harm
-
----
 
 ## 4. Defined Roles and Responsibilities
 
@@ -160,8 +140,6 @@ The IRP clearly defines:
 
 This avoids internal conflict during incidents.
 
----
-
 ## 5. Legal and Regulatory Compliance
 
 Many standards require documented IR procedures, including:
@@ -172,8 +150,6 @@ Many standards require documented IR procedures, including:
 - GDPR
 
 An IRP ensures compliance readiness.
-
----
 
 ## 6. Continuous Improvement
 
